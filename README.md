@@ -8,4 +8,6 @@ student.ipynb
 
 This is the main code file for the project, including graphs and final calculations.
 
-Other documents, including presentation, will be uploaded shortly.
+presentation.pdf
+
+This is a pdf version of the Keynote presentation for non-technical audiences.
